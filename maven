@@ -1,0 +1,4 @@
+yum install maven -y
+mvn compile
+mvn validate
+mvn test
